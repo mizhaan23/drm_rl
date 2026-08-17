@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="208cad4e-ac47-46ed-941d-2468b3c6a22d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/drm_second_order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/algo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/algo/_acrpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/algo/_drm_acrpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/algo/_optimizers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/drm_acrpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/policies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/policies/categorical_linear_policy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/policies/categorical_mlp_policy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/policies/gaussian_mlp_policy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/reinforce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep/utils/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/algo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/algo/_ac_crpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/algo/_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/algo/_crpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/algo/_exp_utility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/algo/_reinforce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/crac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/crpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/q_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/reinforce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear/utils/_utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mk6E8Jl3sS3NmH6RwnVuoeEcCV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.atari_acrpn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.experiments_deep (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.experiments_deep.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sb3_example.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mizha/Documents/GitHub/drm_second_order/linear&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mizha\Documents\GitHub\drm_second_order\linear" />
+      <recent name="C:\Users\mizha\Documents\GitHub\drm_second_order\linear\algo" />
+      <recent name="C:\Users\mizha\Documents\GitHub\drm_second_order\deep\algo" />
+      <recent name="C:\Users\mizha\Documents\GitHub\drm_second_order\deep" />
+      <recent name="C:\Users\mizha\Documents\GitHub\drm_second_order" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mizha\Documents\GitHub\drm_second_order\" />
+      <recent name="C:\Users\mizha\Documents\GitHub\drm_second_order" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.experiments_deep (1)">
+    <configuration name="atari_acrpn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="drm_second_order" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep/atari_acrpn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experiments_deep (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="drm_second_order" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiments_deep.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experiments_deep" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="drm_second_order" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aistats_paper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aistats_paper/experiments_deep.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sb3_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="drm_second_order" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sb3_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.experiments_deep (1)" />
+        <item itemvalue="Python.atari_acrpn" />
+        <item itemvalue="Python.experiments_deep" />
+        <item itemvalue="Python.sb3_example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="208cad4e-ac47-46ed-941d-2468b3c6a22d" name="Changes" comment="" />
+      <created>1727608113239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727608113239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deep/drm_acrpn.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deep/acrpn.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linear/algo/_crpn.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
